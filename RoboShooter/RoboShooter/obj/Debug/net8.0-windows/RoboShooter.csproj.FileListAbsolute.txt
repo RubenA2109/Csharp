@@ -1,0 +1,17 @@
+E:\14685\CSharp\RoboShooter\RoboShooter\bin\Debug\net8.0-windows\RoboShooter.exe
+E:\14685\CSharp\RoboShooter\RoboShooter\bin\Debug\net8.0-windows\RoboShooter.deps.json
+E:\14685\CSharp\RoboShooter\RoboShooter\bin\Debug\net8.0-windows\RoboShooter.runtimeconfig.json
+E:\14685\CSharp\RoboShooter\RoboShooter\bin\Debug\net8.0-windows\RoboShooter.dll
+E:\14685\CSharp\RoboShooter\RoboShooter\bin\Debug\net8.0-windows\RoboShooter.pdb
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.Form1.resources
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.Properties.Resources.resources
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.csproj.GenerateResource.cache
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.GeneratedMSBuildEditorConfig.editorconfig
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.AssemblyInfoInputs.cache
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.AssemblyInfo.cs
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.csproj.CoreCompileInputs.cache
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.dll
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\refint\RoboShooter.dll
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.pdb
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\RoboShooter.genruntimeconfig.cache
+E:\14685\CSharp\RoboShooter\RoboShooter\obj\Debug\net8.0-windows\ref\RoboShooter.dll
